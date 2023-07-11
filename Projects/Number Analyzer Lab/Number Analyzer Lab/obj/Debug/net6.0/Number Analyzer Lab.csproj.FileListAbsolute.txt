@@ -1,0 +1,15 @@
+/Users/zachbuth/Projects/Number Analyzer Lab/Number Analyzer Lab/obj/Debug/net6.0/Number Analyzer Lab.csproj.AssemblyReference.cache
+/Users/zachbuth/Projects/Number Analyzer Lab/Number Analyzer Lab/obj/Debug/net6.0/Number Analyzer Lab.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zachbuth/Projects/Number Analyzer Lab/Number Analyzer Lab/obj/Debug/net6.0/Number Analyzer Lab.AssemblyInfoInputs.cache
+/Users/zachbuth/Projects/Number Analyzer Lab/Number Analyzer Lab/obj/Debug/net6.0/Number Analyzer Lab.AssemblyInfo.cs
+/Users/zachbuth/Projects/Number Analyzer Lab/Number Analyzer Lab/obj/Debug/net6.0/Number Analyzer Lab.csproj.CoreCompileInputs.cache
+/Users/zachbuth/Projects/Number Analyzer Lab/Number Analyzer Lab/bin/Debug/net6.0/Number Analyzer Lab
+/Users/zachbuth/Projects/Number Analyzer Lab/Number Analyzer Lab/bin/Debug/net6.0/Number Analyzer Lab.deps.json
+/Users/zachbuth/Projects/Number Analyzer Lab/Number Analyzer Lab/bin/Debug/net6.0/Number Analyzer Lab.runtimeconfig.json
+/Users/zachbuth/Projects/Number Analyzer Lab/Number Analyzer Lab/bin/Debug/net6.0/Number Analyzer Lab.dll
+/Users/zachbuth/Projects/Number Analyzer Lab/Number Analyzer Lab/bin/Debug/net6.0/Number Analyzer Lab.pdb
+/Users/zachbuth/Projects/Number Analyzer Lab/Number Analyzer Lab/obj/Debug/net6.0/Number Analyzer Lab.dll
+/Users/zachbuth/Projects/Number Analyzer Lab/Number Analyzer Lab/obj/Debug/net6.0/refint/Number Analyzer Lab.dll
+/Users/zachbuth/Projects/Number Analyzer Lab/Number Analyzer Lab/obj/Debug/net6.0/Number Analyzer Lab.pdb
+/Users/zachbuth/Projects/Number Analyzer Lab/Number Analyzer Lab/obj/Debug/net6.0/Number Analyzer Lab.genruntimeconfig.cache
+/Users/zachbuth/Projects/Number Analyzer Lab/Number Analyzer Lab/obj/Debug/net6.0/ref/Number Analyzer Lab.dll

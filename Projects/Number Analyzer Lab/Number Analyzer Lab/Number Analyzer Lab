@@ -1,0 +1,73 @@
+﻿Console.WriteLine("Welcome to the number analyzer");
+Console.WriteLine("Please enter your name: ");
+string userName = Console.ReadLine();
+Console.WriteLine("Hello " + userName);
+
+
+bool runProgram = true;
+while (runProgram)
+{
+Console.WriteLine("Please enter a number between 1-100.");
+int choice = int.Parse(Console.ReadLine());
+
+if (choice % 2 ==1 && choice <60)
+{ Console.WriteLine("Odd and less than 60"); }
+
+if (choice % 2 == 1 && choice > 60)
+{ Console.WriteLine("Odd and greater than 60"); }
+
+if (choice % 2 == 0 && choice <25)
+{ Console.WriteLine("Even and less than 25"); }
+
+if (choice % 2 == 0 && choice > 25 && choice <61)
+{ Console.WriteLine("Even and between 26 and 60 inclusive"); }
+
+if (choice % 2 == 0 && choice > 60)
+{ Console.WriteLine("Even and greater than 60"); }
+
+if (choice <100 || choice >1)
+    { Console.WriteLine("Please pick an integer between 1-100"); }
+
+
+    Console.WriteLine("Would you like to enter another number? y/n");
+    string pick = Console.ReadLine();
+    if (pick == "n")
+    {
+        runProgram = false;
+        Console.WriteLine("Thank you for using the number analyzer " + userName);
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Console.ReadLine();
