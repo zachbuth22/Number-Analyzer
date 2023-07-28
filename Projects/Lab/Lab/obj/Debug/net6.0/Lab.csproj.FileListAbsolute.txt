@@ -1,0 +1,15 @@
+/Users/zachbuth/Projects/Lab/Lab/bin/Debug/net6.0/Lab
+/Users/zachbuth/Projects/Lab/Lab/bin/Debug/net6.0/Lab.deps.json
+/Users/zachbuth/Projects/Lab/Lab/bin/Debug/net6.0/Lab.runtimeconfig.json
+/Users/zachbuth/Projects/Lab/Lab/bin/Debug/net6.0/Lab.dll
+/Users/zachbuth/Projects/Lab/Lab/bin/Debug/net6.0/Lab.pdb
+/Users/zachbuth/Projects/Lab/Lab/obj/Debug/net6.0/Lab.csproj.AssemblyReference.cache
+/Users/zachbuth/Projects/Lab/Lab/obj/Debug/net6.0/Lab.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zachbuth/Projects/Lab/Lab/obj/Debug/net6.0/Lab.AssemblyInfoInputs.cache
+/Users/zachbuth/Projects/Lab/Lab/obj/Debug/net6.0/Lab.AssemblyInfo.cs
+/Users/zachbuth/Projects/Lab/Lab/obj/Debug/net6.0/Lab.csproj.CoreCompileInputs.cache
+/Users/zachbuth/Projects/Lab/Lab/obj/Debug/net6.0/Lab.dll
+/Users/zachbuth/Projects/Lab/Lab/obj/Debug/net6.0/refint/Lab.dll
+/Users/zachbuth/Projects/Lab/Lab/obj/Debug/net6.0/Lab.pdb
+/Users/zachbuth/Projects/Lab/Lab/obj/Debug/net6.0/Lab.genruntimeconfig.cache
+/Users/zachbuth/Projects/Lab/Lab/obj/Debug/net6.0/ref/Lab.dll

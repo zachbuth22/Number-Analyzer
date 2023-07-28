@@ -1,0 +1,15 @@
+/Users/zachbuth/Projects/Strings!/Strings!/bin/Debug/net6.0/Strings!
+/Users/zachbuth/Projects/Strings!/Strings!/bin/Debug/net6.0/Strings!.deps.json
+/Users/zachbuth/Projects/Strings!/Strings!/bin/Debug/net6.0/Strings!.runtimeconfig.json
+/Users/zachbuth/Projects/Strings!/Strings!/bin/Debug/net6.0/Strings!.dll
+/Users/zachbuth/Projects/Strings!/Strings!/bin/Debug/net6.0/Strings!.pdb
+/Users/zachbuth/Projects/Strings!/Strings!/obj/Debug/net6.0/Strings!.csproj.AssemblyReference.cache
+/Users/zachbuth/Projects/Strings!/Strings!/obj/Debug/net6.0/Strings!.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zachbuth/Projects/Strings!/Strings!/obj/Debug/net6.0/Strings!.AssemblyInfoInputs.cache
+/Users/zachbuth/Projects/Strings!/Strings!/obj/Debug/net6.0/Strings!.AssemblyInfo.cs
+/Users/zachbuth/Projects/Strings!/Strings!/obj/Debug/net6.0/Strings!.csproj.CoreCompileInputs.cache
+/Users/zachbuth/Projects/Strings!/Strings!/obj/Debug/net6.0/Strings!.dll
+/Users/zachbuth/Projects/Strings!/Strings!/obj/Debug/net6.0/refint/Strings!.dll
+/Users/zachbuth/Projects/Strings!/Strings!/obj/Debug/net6.0/Strings!.pdb
+/Users/zachbuth/Projects/Strings!/Strings!/obj/Debug/net6.0/Strings!.genruntimeconfig.cache
+/Users/zachbuth/Projects/Strings!/Strings!/obj/Debug/net6.0/ref/Strings!.dll

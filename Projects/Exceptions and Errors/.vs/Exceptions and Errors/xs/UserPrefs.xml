@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{FE9B8EF9-4EC8-4ACC-AB9F-F52A1CD83878}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Exceptions and Errors/Program.cs">
+    <Files>
+      <File FileName="Exceptions and Errors/Program.cs" Line="85" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Exceptions_220and_220Errors PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

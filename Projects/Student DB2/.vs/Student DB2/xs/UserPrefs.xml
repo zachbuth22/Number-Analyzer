@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{F853712D-B50A-433A-96FC-B5F77D9A228F}|Default">
+  <MonoDevelop.Ide.ItemProperties.Student_220DB2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Student DB2/Program.cs">
+    <Files>
+      <File FileName="Student DB2/Program.cs" Line="13" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

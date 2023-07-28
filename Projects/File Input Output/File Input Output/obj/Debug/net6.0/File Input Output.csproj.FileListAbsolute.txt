@@ -1,0 +1,15 @@
+/Users/zachbuth/Projects/File Input Output/File Input Output/bin/Debug/net6.0/File Input Output
+/Users/zachbuth/Projects/File Input Output/File Input Output/bin/Debug/net6.0/File Input Output.deps.json
+/Users/zachbuth/Projects/File Input Output/File Input Output/bin/Debug/net6.0/File Input Output.runtimeconfig.json
+/Users/zachbuth/Projects/File Input Output/File Input Output/bin/Debug/net6.0/File Input Output.dll
+/Users/zachbuth/Projects/File Input Output/File Input Output/bin/Debug/net6.0/File Input Output.pdb
+/Users/zachbuth/Projects/File Input Output/File Input Output/obj/Debug/net6.0/File Input Output.csproj.AssemblyReference.cache
+/Users/zachbuth/Projects/File Input Output/File Input Output/obj/Debug/net6.0/File Input Output.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zachbuth/Projects/File Input Output/File Input Output/obj/Debug/net6.0/File Input Output.AssemblyInfoInputs.cache
+/Users/zachbuth/Projects/File Input Output/File Input Output/obj/Debug/net6.0/File Input Output.AssemblyInfo.cs
+/Users/zachbuth/Projects/File Input Output/File Input Output/obj/Debug/net6.0/File Input Output.csproj.CoreCompileInputs.cache
+/Users/zachbuth/Projects/File Input Output/File Input Output/obj/Debug/net6.0/File Input Output.dll
+/Users/zachbuth/Projects/File Input Output/File Input Output/obj/Debug/net6.0/refint/File Input Output.dll
+/Users/zachbuth/Projects/File Input Output/File Input Output/obj/Debug/net6.0/File Input Output.pdb
+/Users/zachbuth/Projects/File Input Output/File Input Output/obj/Debug/net6.0/File Input Output.genruntimeconfig.cache
+/Users/zachbuth/Projects/File Input Output/File Input Output/obj/Debug/net6.0/ref/File Input Output.dll

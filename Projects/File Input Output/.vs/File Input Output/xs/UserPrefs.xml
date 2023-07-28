@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{78F1FBF2-9A03-4AB1-BBEA-092490E84AA8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="File Input Output/Program.cs">
+    <Files>
+      <File FileName="File Input Output/Program.cs" Line="34" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="File Input Output" expanded="True">
+            <Node name="File Input Output" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.File_220Input_220Output PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

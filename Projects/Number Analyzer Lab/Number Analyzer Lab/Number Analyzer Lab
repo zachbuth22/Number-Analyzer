@@ -16,7 +16,7 @@ if (choice % 2 ==1 && choice <60)
 if (choice % 2 == 1 && choice > 60)
 { Console.WriteLine("Odd and greater than 60"); }
 
-if (choice % 2 == 0 && choice <25)
+if (choice % 2 == 0 && choice <25 && choice >=1)
 { Console.WriteLine("Even and less than 25"); }
 
 if (choice % 2 == 0 && choice > 25 && choice <61)
@@ -24,9 +24,6 @@ if (choice % 2 == 0 && choice > 25 && choice <61)
 
 if (choice % 2 == 0 && choice > 60)
 { Console.WriteLine("Even and greater than 60"); }
-
-if (choice <100 || choice >1)
-    { Console.WriteLine("Please pick an integer between 1-100"); }
 
 
     Console.WriteLine("Would you like to enter another number? y/n");

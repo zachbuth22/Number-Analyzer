@@ -1,0 +1,15 @@
+/Users/zachbuth/Projects/File IO Exercise/File IO Exercise/bin/Debug/net6.0/File IO Exercise
+/Users/zachbuth/Projects/File IO Exercise/File IO Exercise/bin/Debug/net6.0/File IO Exercise.deps.json
+/Users/zachbuth/Projects/File IO Exercise/File IO Exercise/bin/Debug/net6.0/File IO Exercise.runtimeconfig.json
+/Users/zachbuth/Projects/File IO Exercise/File IO Exercise/bin/Debug/net6.0/File IO Exercise.dll
+/Users/zachbuth/Projects/File IO Exercise/File IO Exercise/bin/Debug/net6.0/File IO Exercise.pdb
+/Users/zachbuth/Projects/File IO Exercise/File IO Exercise/obj/Debug/net6.0/File IO Exercise.csproj.AssemblyReference.cache
+/Users/zachbuth/Projects/File IO Exercise/File IO Exercise/obj/Debug/net6.0/File IO Exercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zachbuth/Projects/File IO Exercise/File IO Exercise/obj/Debug/net6.0/File IO Exercise.AssemblyInfoInputs.cache
+/Users/zachbuth/Projects/File IO Exercise/File IO Exercise/obj/Debug/net6.0/File IO Exercise.AssemblyInfo.cs
+/Users/zachbuth/Projects/File IO Exercise/File IO Exercise/obj/Debug/net6.0/File IO Exercise.csproj.CoreCompileInputs.cache
+/Users/zachbuth/Projects/File IO Exercise/File IO Exercise/obj/Debug/net6.0/File IO Exercise.dll
+/Users/zachbuth/Projects/File IO Exercise/File IO Exercise/obj/Debug/net6.0/refint/File IO Exercise.dll
+/Users/zachbuth/Projects/File IO Exercise/File IO Exercise/obj/Debug/net6.0/File IO Exercise.pdb
+/Users/zachbuth/Projects/File IO Exercise/File IO Exercise/obj/Debug/net6.0/File IO Exercise.genruntimeconfig.cache
+/Users/zachbuth/Projects/File IO Exercise/File IO Exercise/obj/Debug/net6.0/ref/File IO Exercise.dll

@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{9FEE2622-4308-4DEA-9C2D-D78B87C353C1}|Default">
+  <MonoDevelop.Ide.ItemProperties.Conditional_220Lecture PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Conditional Lecture" expanded="True" selected="True">
+            <Node name="Conditional Lecture" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

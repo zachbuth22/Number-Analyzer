@@ -1,0 +1,15 @@
+/Users/zachbuth/Projects/Deliverable1/Deliverable1/bin/Debug/net6.0/Deliverable1
+/Users/zachbuth/Projects/Deliverable1/Deliverable1/bin/Debug/net6.0/Deliverable1.deps.json
+/Users/zachbuth/Projects/Deliverable1/Deliverable1/bin/Debug/net6.0/Deliverable1.runtimeconfig.json
+/Users/zachbuth/Projects/Deliverable1/Deliverable1/bin/Debug/net6.0/Deliverable1.dll
+/Users/zachbuth/Projects/Deliverable1/Deliverable1/bin/Debug/net6.0/Deliverable1.pdb
+/Users/zachbuth/Projects/Deliverable1/Deliverable1/obj/Debug/net6.0/Deliverable1.csproj.AssemblyReference.cache
+/Users/zachbuth/Projects/Deliverable1/Deliverable1/obj/Debug/net6.0/Deliverable1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zachbuth/Projects/Deliverable1/Deliverable1/obj/Debug/net6.0/Deliverable1.AssemblyInfoInputs.cache
+/Users/zachbuth/Projects/Deliverable1/Deliverable1/obj/Debug/net6.0/Deliverable1.AssemblyInfo.cs
+/Users/zachbuth/Projects/Deliverable1/Deliverable1/obj/Debug/net6.0/Deliverable1.csproj.CoreCompileInputs.cache
+/Users/zachbuth/Projects/Deliverable1/Deliverable1/obj/Debug/net6.0/Deliverable1.dll
+/Users/zachbuth/Projects/Deliverable1/Deliverable1/obj/Debug/net6.0/refint/Deliverable1.dll
+/Users/zachbuth/Projects/Deliverable1/Deliverable1/obj/Debug/net6.0/Deliverable1.pdb
+/Users/zachbuth/Projects/Deliverable1/Deliverable1/obj/Debug/net6.0/Deliverable1.genruntimeconfig.cache
+/Users/zachbuth/Projects/Deliverable1/Deliverable1/obj/Debug/net6.0/ref/Deliverable1.dll

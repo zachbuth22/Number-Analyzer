@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{0CE1970A-9AE3-4785-A753-CB00D855C193}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Circle Lab/Program.cs">
+    <Files>
+      <File FileName="Circle Lab/Program.cs" Line="6" Column="31" />
+      <File FileName="Circle Lab/Circle.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Circle Lab" expanded="True">
+            <Node name="Circle Lab" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Circle_220Lab PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

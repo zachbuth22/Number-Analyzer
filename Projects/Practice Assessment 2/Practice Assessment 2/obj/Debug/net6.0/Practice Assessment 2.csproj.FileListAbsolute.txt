@@ -1,0 +1,15 @@
+/Users/zachbuth/Projects/Practice Assessment 2/Practice Assessment 2/obj/Debug/net6.0/Practice Assessment 2.csproj.AssemblyReference.cache
+/Users/zachbuth/Projects/Practice Assessment 2/Practice Assessment 2/obj/Debug/net6.0/Practice Assessment 2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zachbuth/Projects/Practice Assessment 2/Practice Assessment 2/obj/Debug/net6.0/Practice Assessment 2.AssemblyInfoInputs.cache
+/Users/zachbuth/Projects/Practice Assessment 2/Practice Assessment 2/obj/Debug/net6.0/Practice Assessment 2.AssemblyInfo.cs
+/Users/zachbuth/Projects/Practice Assessment 2/Practice Assessment 2/obj/Debug/net6.0/Practice Assessment 2.csproj.CoreCompileInputs.cache
+/Users/zachbuth/Projects/Practice Assessment 2/Practice Assessment 2/bin/Debug/net6.0/Practice Assessment 2
+/Users/zachbuth/Projects/Practice Assessment 2/Practice Assessment 2/bin/Debug/net6.0/Practice Assessment 2.deps.json
+/Users/zachbuth/Projects/Practice Assessment 2/Practice Assessment 2/bin/Debug/net6.0/Practice Assessment 2.runtimeconfig.json
+/Users/zachbuth/Projects/Practice Assessment 2/Practice Assessment 2/bin/Debug/net6.0/Practice Assessment 2.dll
+/Users/zachbuth/Projects/Practice Assessment 2/Practice Assessment 2/bin/Debug/net6.0/Practice Assessment 2.pdb
+/Users/zachbuth/Projects/Practice Assessment 2/Practice Assessment 2/obj/Debug/net6.0/Practice Assessment 2.dll
+/Users/zachbuth/Projects/Practice Assessment 2/Practice Assessment 2/obj/Debug/net6.0/refint/Practice Assessment 2.dll
+/Users/zachbuth/Projects/Practice Assessment 2/Practice Assessment 2/obj/Debug/net6.0/Practice Assessment 2.pdb
+/Users/zachbuth/Projects/Practice Assessment 2/Practice Assessment 2/obj/Debug/net6.0/Practice Assessment 2.genruntimeconfig.cache
+/Users/zachbuth/Projects/Practice Assessment 2/Practice Assessment 2/obj/Debug/net6.0/ref/Practice Assessment 2.dll

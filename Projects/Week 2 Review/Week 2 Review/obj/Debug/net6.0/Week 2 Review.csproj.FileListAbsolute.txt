@@ -1,0 +1,15 @@
+/Users/zachbuth/Projects/Week 2 Review/Week 2 Review/bin/Debug/net6.0/Week 2 Review
+/Users/zachbuth/Projects/Week 2 Review/Week 2 Review/bin/Debug/net6.0/Week 2 Review.deps.json
+/Users/zachbuth/Projects/Week 2 Review/Week 2 Review/bin/Debug/net6.0/Week 2 Review.runtimeconfig.json
+/Users/zachbuth/Projects/Week 2 Review/Week 2 Review/bin/Debug/net6.0/Week 2 Review.dll
+/Users/zachbuth/Projects/Week 2 Review/Week 2 Review/bin/Debug/net6.0/Week 2 Review.pdb
+/Users/zachbuth/Projects/Week 2 Review/Week 2 Review/obj/Debug/net6.0/Week 2 Review.csproj.AssemblyReference.cache
+/Users/zachbuth/Projects/Week 2 Review/Week 2 Review/obj/Debug/net6.0/Week 2 Review.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zachbuth/Projects/Week 2 Review/Week 2 Review/obj/Debug/net6.0/Week 2 Review.AssemblyInfoInputs.cache
+/Users/zachbuth/Projects/Week 2 Review/Week 2 Review/obj/Debug/net6.0/Week 2 Review.AssemblyInfo.cs
+/Users/zachbuth/Projects/Week 2 Review/Week 2 Review/obj/Debug/net6.0/Week 2 Review.csproj.CoreCompileInputs.cache
+/Users/zachbuth/Projects/Week 2 Review/Week 2 Review/obj/Debug/net6.0/Week 2 Review.dll
+/Users/zachbuth/Projects/Week 2 Review/Week 2 Review/obj/Debug/net6.0/refint/Week 2 Review.dll
+/Users/zachbuth/Projects/Week 2 Review/Week 2 Review/obj/Debug/net6.0/Week 2 Review.pdb
+/Users/zachbuth/Projects/Week 2 Review/Week 2 Review/obj/Debug/net6.0/Week 2 Review.genruntimeconfig.cache
+/Users/zachbuth/Projects/Week 2 Review/Week 2 Review/obj/Debug/net6.0/ref/Week 2 Review.dll

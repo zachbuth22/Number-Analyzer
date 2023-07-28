@@ -1,0 +1,15 @@
+/Users/zachbuth/Projects/Exceptions and Errors/Exceptions and Errors/bin/Debug/net6.0/Exceptions and Errors
+/Users/zachbuth/Projects/Exceptions and Errors/Exceptions and Errors/bin/Debug/net6.0/Exceptions and Errors.deps.json
+/Users/zachbuth/Projects/Exceptions and Errors/Exceptions and Errors/bin/Debug/net6.0/Exceptions and Errors.runtimeconfig.json
+/Users/zachbuth/Projects/Exceptions and Errors/Exceptions and Errors/bin/Debug/net6.0/Exceptions and Errors.dll
+/Users/zachbuth/Projects/Exceptions and Errors/Exceptions and Errors/bin/Debug/net6.0/Exceptions and Errors.pdb
+/Users/zachbuth/Projects/Exceptions and Errors/Exceptions and Errors/obj/Debug/net6.0/Exceptions and Errors.csproj.AssemblyReference.cache
+/Users/zachbuth/Projects/Exceptions and Errors/Exceptions and Errors/obj/Debug/net6.0/Exceptions and Errors.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zachbuth/Projects/Exceptions and Errors/Exceptions and Errors/obj/Debug/net6.0/Exceptions and Errors.AssemblyInfoInputs.cache
+/Users/zachbuth/Projects/Exceptions and Errors/Exceptions and Errors/obj/Debug/net6.0/Exceptions and Errors.AssemblyInfo.cs
+/Users/zachbuth/Projects/Exceptions and Errors/Exceptions and Errors/obj/Debug/net6.0/Exceptions and Errors.csproj.CoreCompileInputs.cache
+/Users/zachbuth/Projects/Exceptions and Errors/Exceptions and Errors/obj/Debug/net6.0/Exceptions and Errors.dll
+/Users/zachbuth/Projects/Exceptions and Errors/Exceptions and Errors/obj/Debug/net6.0/refint/Exceptions and Errors.dll
+/Users/zachbuth/Projects/Exceptions and Errors/Exceptions and Errors/obj/Debug/net6.0/Exceptions and Errors.pdb
+/Users/zachbuth/Projects/Exceptions and Errors/Exceptions and Errors/obj/Debug/net6.0/Exceptions and Errors.genruntimeconfig.cache
+/Users/zachbuth/Projects/Exceptions and Errors/Exceptions and Errors/obj/Debug/net6.0/ref/Exceptions and Errors.dll

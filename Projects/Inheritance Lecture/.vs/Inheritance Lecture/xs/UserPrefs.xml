@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{6338CF93-F26B-44C1-AD18-474EBC2805AA}|Default">
+  <MonoDevelop.Ide.ItemProperties.Inheritance_220Lecture PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Inheritance Lecture/Savings Account.cs">
+    <Files>
+      <File FileName="Inheritance Lecture/Program.cs" Line="43" Column="1" />
+      <File FileName="Inheritance Lecture/Bank Account.cs" Line="18" Column="21" />
+      <File FileName="Inheritance Lecture/Savings Account.cs" Line="4" Column="22" />
+      <File FileName="Inheritance Lecture/Checking.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Inheritance Lecture" expanded="True">
+            <Node name="Inheritance Lecture" expanded="True">
+              <Node name="Savings Account.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
