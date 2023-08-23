@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{FC04BA7C-AF51-4B23-9439-BD4D1F224A0F}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Top 100 OOP/SkillPlayer.cs">
+    <Files>
+      <File FileName="Top 100 OOP/Program.cs" Line="75" Column="28" />
+      <File FileName="Top 100 OOP/SkillPlayer.cs" Line="28" Column="2" />
+      <File FileName="Top 100 OOP/QB.cs" Line="30" Column="19" />
+      <File FileName="Top 100 OOP/RB.cs" Line="13" Column="65" />
+      <File FileName="Top 100 OOP/WR.cs" Line="9" Column="23" />
+      <File FileName="Top 100 OOP/TE.cs" Line="17" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Top 100 OOP">
+            <Node name="Top 100 OOP">
+              <Node name="SkillPlayer.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Top_220100_220OOP PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

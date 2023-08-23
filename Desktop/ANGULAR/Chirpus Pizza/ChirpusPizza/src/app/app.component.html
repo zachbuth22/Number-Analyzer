@@ -1,0 +1,51 @@
+<h1>Chirpus Pizza Menu</h1>
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Category</th>
+    <th>Price</th>
+  </tr>
+  <tr *ngFor="let c of allItems">
+    <td>{{c.Name}}</td>
+    <td>{{c.Category}}</td>
+    <td>{{c.Price}}</td>
+  </tr>
+</table>
+
+
+
+<table>
+  <h2>Wings</h2>
+  <tr>
+    <th>Name</th>
+    <th>Price</th>
+  </tr>
+    <tr *ngFor="let w of getByCategory ('Wings')">
+    <td>{{w.Name}}</td>
+    <td>{{w.Price}}</td>
+  </tr>
+</table>
+  <table>
+    <h2>Pizza</h2>
+    <tr>
+      <th>Name</th>
+      <th>Price</th>
+    </tr>
+  <tr *ngFor="let p of getByCategory ('Pizza')">
+  <td>{{p.Name}}</td>
+  <td>{{p.Price}}</td>
+  </tr>
+  </table>
+
+  <table>
+  <h2>Drinks</h2>
+  <tr>
+    <th>Name</th>
+    <th>Price</th>
+  </tr>
+  <tr *ngFor="let d of getByCategory ('Drinks')">
+  <td>{{d.Name}}</td>
+  <td>{{d.Price}}</td>
+  </tr>
+
+</table>

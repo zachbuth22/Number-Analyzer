@@ -27,7 +27,7 @@ List<Pen> CupOfPens = new List<Pen>()
     myPen, //useobjects
     myPen2,
     myPen3,
-    new Pen("Pink","Sharpie","Ball point", 5m, 6.3f) //generate new ones
+    new Pen("Pink","Sharpie","Ball point", 5, 6.3f) //generate new ones
 
 };
 
@@ -35,6 +35,15 @@ foreach(Pen p in CupOfPens)
 {
     p.Draw();
 }
+
+//Bank section
+Bank myBank = new Bank(5);
+myBank.Deposit(10);
+Console.WriteLine(myBank.GetBalance());
+Console.WriteLine(myBank.Withdraw(1000));
+
+
+
 
 //methods
 static void DisplayPenDetails(Pen p)

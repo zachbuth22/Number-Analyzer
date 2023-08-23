@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{4F57CC84-955F-49F0-A2EC-3B3581927FA0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Design Patterns/Usings.cs">
+    <Files>
+      <File FileName="Design Patterns/Usings.cs" Line="4" Column="1" />
+      <File FileName="Design Patterns/Item.cs" Line="11" Column="44" />
+      <File FileName="Design Patterns/ItemView.cs" Line="21" Column="3" />
+      <File FileName="Design Patterns/ItemListView.cs" Line="23" Column="4" />
+      <File FileName="Design Patterns/Item Controller.cs" Line="6" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Design Patterns" expanded="True">
+            <Node name="Design Patterns">
+              <Node name="Usings.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Design_220Patterns PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

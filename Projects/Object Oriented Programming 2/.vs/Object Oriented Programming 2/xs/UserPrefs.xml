@@ -1,5 +1,10 @@
 ﻿<Properties StartupConfiguration="{4BCA1EFC-5839-40C8-AF0A-15A79BE5760E}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Object Oriented Programming 2/EmptyClass.cs">
+  <MonoDevelop.Ide.ItemProperties.Object_220Oriented_220Programming_2202 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Object Oriented Programming 2/Program.cs">
     <Files>
       <File FileName="Object Oriented Programming 2/Program.cs" Line="34" Column="20" />
       <File FileName="Object Oriented Programming 2/EmptyClass.cs" Line="11" Column="21" />
@@ -8,19 +13,14 @@
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Object Oriented Programming 2" expanded="True">
-            <Node name="Object Oriented Programming 2">
-              <Node name="EmptyClass.cs" selected="True" />
+            <Node name="Object Oriented Programming 2" expanded="True">
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Object_220Oriented_220Programming_2202 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{4175EAB2-21DE-4D32-8F9E-FB40C0906096}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Practice_220Assessment_2203 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Practice Assessment 3/Farmer.cs">
+    <Files>
+      <File FileName="Practice Assessment 3/Program.cs" Line="8" Column="19" />
+      <File FileName="Practice Assessment 3/Town.cs" Line="41" Column="3" />
+      <File FileName="Practice Assessment 3/EmptyClass.cs" Line="9" Column="12" />
+      <File FileName="Practice Assessment 3/Farmer.cs" Line="14" Column="6" />
+      <File FileName="Practice Assessment 3/Slacker.cs" Line="8" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Practice Assessment 3" expanded="True">
+            <Node name="Practice Assessment 3">
+              <Node name="Farmer.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

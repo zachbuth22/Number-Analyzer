@@ -1,0 +1,5 @@
+/Users/zachbuth/Projects/Top 100 OOP/Top 100 OOP/obj/Debug/net6.0/Top 100 OOP.csproj.AssemblyReference.cache
+/Users/zachbuth/Projects/Top 100 OOP/Top 100 OOP/obj/Debug/net6.0/Top 100 OOP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zachbuth/Projects/Top 100 OOP/Top 100 OOP/obj/Debug/net6.0/Top 100 OOP.AssemblyInfoInputs.cache
+/Users/zachbuth/Projects/Top 100 OOP/Top 100 OOP/obj/Debug/net6.0/Top 100 OOP.AssemblyInfo.cs
+/Users/zachbuth/Projects/Top 100 OOP/Top 100 OOP/obj/Debug/net6.0/Top 100 OOP.csproj.CoreCompileInputs.cache
